@@ -4,6 +4,8 @@
 * **Speaker: John Carmack**
 * **Video: [https://www.youtube.com/watch?v=1PhArSujR_A](https://www.youtube.com/watch?v=1PhArSujR_A)**
 
+![Watch the video](https://img.youtube.com/vi/1PhArSujR_A/maxresdefault.jpg)](https://youtu.be/1PhArSujR_A)
+
 Thinking that, "Okay, it's not evolving fast enough." Microsoft's doing a spectacular job with what they're evolving with D3D but along came mobile and now web GL and all of a sudden open GL is what's probably rendering 10 times as many triangles as anything else. And it's far from a perfect API, all of that, the implicit state in bindings is still a huge war. We still want lower level access to directly using buffers and some of the other things, treating it like a CPU, but it's still a good thing. And I can give myself a little bit of a pat on the back for all the work that I did to kind of help make that happen over the years. And I think that the industry as a whole is definitely better off for that. And again, it's not bad to have Microsoft doing a great job with all the D3D stuff, but it's good to have a couple of competing paradigms and something that wound up being free for the platforms that are going in thousands and thousands of different things. So that's been a good thing.
 
 On the rendering side of things, physically correct lighting. It's wonderful to see that that's all the rage now. It's all anybody's talking about for the next gen stuff and it's good. It will win. It will be better. We've seen this story before with the offline rendering crowd about being resistant at first, then finding out that it actually does make their lives easier.
